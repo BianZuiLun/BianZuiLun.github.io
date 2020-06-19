@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BianZuiLun.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-06-19T07:30:23.765Z</updated>
+    <title>伦的Gridea</title>
+    <updated>2020-06-19T07:35:09.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://BianZuiLun.github.io"/>
     <link rel="self" href="https://BianZuiLun.github.io/atom.xml"/>
     <subtitle>一气化三清太清居火赤天仙登太清境玄气所成日神宝君道德天尊混元上帝</subtitle>
     <logo>https://BianZuiLun.github.io/images/avatar.png</logo>
     <icon>https://BianZuiLun.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, 伦的Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://BianZuiLun.github.io/post/hello-gridea/</id>

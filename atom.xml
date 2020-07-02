@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BianZuiLun.github.io</id>
     <title>伦的Gridea</title>
-    <updated>2020-06-19T07:42:45.630Z</updated>
+    <updated>2020-07-02T15:45:19.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://BianZuiLun.github.io"/>
     <link rel="self" href="https://BianZuiLun.github.io/atom.xml"/>
@@ -10,6 +10,32 @@
     <logo>https://BianZuiLun.github.io/images/avatar.png</logo>
     <icon>https://BianZuiLun.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 伦的Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[《图解风水入门》作者：李静 出版社：文化艺术出版社 翻书笔记01]]></title>
+        <id>https://BianZuiLun.github.io/post/lesslesstu-jie-feng-shui-ru-men-greatergreater-zuo-zhe-li-jing-chu-ban-she-wen-hua-yi-zhu-chu-ban-she-fan-shu-bi-ji/</id>
+        <link href="https://BianZuiLun.github.io/post/lesslesstu-jie-feng-shui-ru-men-greatergreater-zuo-zhe-li-jing-chu-ban-she-wen-hua-yi-zhu-chu-ban-she-fan-shu-bi-ji/">
+        </link>
+        <updated>2020-07-02T15:31:09.000Z</updated>
+        <summary type="html"><![CDATA[<p>风水又名堪舆、图宅。“‘堪’，天道也；‘舆’，地道也。”<br>
+风水性质：一门研究人与环境关系的学说。<br>
+是寻找生气对阴阳天地，身心和谐的至善境界的追求，代表人对天地宇宙的探索与认识。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>风水又名堪舆、图宅。“‘堪’，天道也；‘舆’，地道也。”<br>
+风水性质：一门研究人与环境关系的学说。<br>
+是寻找生气对阴阳天地，身心和谐的至善境界的追求，代表人对天地宇宙的探索与认识。</p>
+<!-- more -->
+<p>五行：木、火、土、金、水。<br>
+五行相生：水生木，木生火，火生土，土生金，金生水。<br>
+五行相克：水克火，火克金，金克木，木克土，土克水。<br>
+五行特性：<br>
+木：生发、条达。<br>
+火：炎热、向上。<br>
+土：长养、化育。<br>
+金：清净、肃杀。<br>
+水：寒冷、向下。</p>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://BianZuiLun.github.io/post/hello-gridea/</id>

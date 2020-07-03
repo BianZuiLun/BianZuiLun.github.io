@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BianZuiLun.github.io</id>
     <title>伦的Gridea</title>
-    <updated>2020-07-03T16:00:33.979Z</updated>
+    <updated>2020-07-03T16:03:53.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://BianZuiLun.github.io"/>
     <link rel="self" href="https://BianZuiLun.github.io/atom.xml"/>
@@ -65,36 +65,39 @@
 </tr>
 </tbody>
 </table>
-<p>十二生肖与十二地支的对应：<br>
-| 生肖 | 鼠 | 牛 | 虎 | 兔 | 龙 | 蛇 | 马 | 羊 |  猴 | 鸡 | 狗 | 猪 |<br>
-:-: | :-: | :-: | :-: | :-:<br>
-| 地支  | 子 | 丑 | 寅 | 卯 | 辰 | 巳 | 午 | 未 |  申 | 酉 | 戌 | 亥 |</p>
+<p>十二生肖与十二地支的对应：</p>
 <table>
         <tr>
-            <th>设备</th>
-            <th>设备文件名</th>
-            <th>文件描述符</th>
-            <th>类型</th>
+            <th>生肖</th>
+            <th>鼠</th>
+            <th>牛</th>
+            <th>虎</th>
+            <th>兔</th>
+            <th>龙</th>
+            <th>蛇</th>
+            <th>马</th>
+            <th>羊</th>
+            <th>猴</th>
+            <th>鸡</th>
+            <th>狗</th>
+            <th>猪</th>
         </tr>
         <tr>
-            <th>键盘</th>
-            <th>/dev/stdin</th>
-            <th>0</th>
-            <th>标准输入</th>
+            <th>地支</th>
+            <th>子</th>
+            <th>丑</th>
+            <th>寅</th>
+            <th>卯</th>
+            <th>辰</th>
+            <th>巳</th>
+            <th>午</th>
+            <th>未</th>
+            <th>申</th>
+            <th>酉</th>
+            <th>戌</th>
+            <th>亥</th>
         </tr>
-        <tr>
-            <th>显示器</th>
-            <th>/dev/stdout</th>
-            <th>1</th>
-            <th>标准输出</th>
-        </tr>
-        <tr>
-            <th>显示器</th>
-            <th>/dev/stderr</th>
-            <th>2</th>
-            <th>标准错误输出</th>
-        </tr>
-    </table>
+    </table>    
 <!-- more -->
 <p>八卦：古人用八卦分别象征自然界的8种事物：乾为天，坤为地，震为雷，巽为风，离为火，坎为水，艮为山，兑为泽。并分别与五行对应。<br>
 八卦是我国古代的一套有象征意义的符号。用“——”代表阳，用“-    -”代表阴，用三个这样的符号，组成八种形式，用来表示自然界中的一切事物。</p>

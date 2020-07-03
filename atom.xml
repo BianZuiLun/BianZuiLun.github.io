@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BianZuiLun.github.io</id>
     <title>伦的Gridea</title>
-    <updated>2020-07-03T15:51:06.704Z</updated>
+    <updated>2020-07-03T15:56:44.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://BianZuiLun.github.io"/>
     <link rel="self" href="https://BianZuiLun.github.io/atom.xml"/>
@@ -66,9 +66,12 @@
 </tbody>
 </table>
 <p>十二生肖与十二地支的对应：<br>
-生肖 | 鼠 | 牛 | 虎 | 兔 | 龙 | 蛇 | 马 | 羊 |  猴 | 鸡 | 狗 | 猪 |<br>
+| 生肖 | 鼠 | 牛 | 虎 | 兔 | 龙 | 蛇 | 马 | 羊 |  猴 | 鸡 | 狗 | 猪 |<br>
 :-: | :-: | :-: | :-: | :-:<br>
-地支  | 子 | 丑 | 寅 | 卯 | 辰 | 巳 | 午 | 未 |  申 | 酉 | 戌 | 亥 |</p>
+| 地支  | 子 | 丑 | 寅 | 卯 | 辰 | 巳 | 午 | 未 |  申 | 酉 | 戌 | 亥 |</p>
+<!-- more -->
+<p>八卦：古人用八卦分别象征自然界的8种事物：乾为天，坤为地，震为雷，巽为风，离为火，坎为水，艮为山，兑为泽。并分别与五行对应。<br>
+八卦是我国古代的一套有象征意义的符号。用“——”代表阳，用“-    -”代表阴，用三个这样的符号，组成八种形式，用来表示自然界中的一切事物。</p>
 ]]></content>
     </entry>
     <entry>
